@@ -18,7 +18,7 @@ PyGame
 
 💞️ I’m looking to collaborate on
 
-untitled game, Python Language
+untitled Project
 
 ———————————————————————————————————
 
