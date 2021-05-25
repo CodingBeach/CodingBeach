@@ -23,4 +23,5 @@ untitled game, Python Language
 ———————————————————————————————————
 
 📫 How to reach me
-contact - Discord: Hajp#6610
+
+Discord: Hajp#6610
